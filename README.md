@@ -1,4 +1,4 @@
-<h1>Hi, I'm Iranzi Innocent! <br/><a href="https://github.com/IRANZI-INNOCENT">Data sceintist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Machine Learning Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Digital Marketer</a></h1>
+<h1>Hi, I'm Iranzi Innocent! <br/><a href=https://www.linkedin.com/feed/">Data sceintist</a>, <a href="https://www.linkedin.com/feed/">Machine Learning Professional</a>, <a href="https://www.linkedin.com/feed/">Digital Marketer</a></h1>
 
 <h2>👨‍💻 Data Science and Machine Learning Projects:</h2>
 
